@@ -1,6 +1,6 @@
  # DRUMS in SPACE :rocket:
 
-![Screenshot](../img/drums.png?raw=true?style=centerme)
+![Screenshot](JS30/01 - JavaScript Drum Kit/img/drums.png)
 
 ## Lessons Learned
 
@@ -19,11 +19,11 @@ This is were I was stuck for a bit:
     const key = document.querySelector(`.key[data-key="${e.keyCode}"]`);   
 ```
  
-Other stuff learned:
+## Other stuff learned:
 
 * Making awesome md files. Learn best practices and Markdown formatting at [Github's Markdown site.](https://guides.github.com/features/mastering-markdown/)
 * Adding a favicon to your website. I used a premade one from [here.](https://www.favicon-generator.org/)
 
-Some useful resources that were used in this challenge:
+## Some useful resources that were used in this challenge:
 
 * Difference betweeen DOM elements and attributes [w3schools.](https://www.w3schools.com/xml/xml_dtd_el_vs_attr.asp)
