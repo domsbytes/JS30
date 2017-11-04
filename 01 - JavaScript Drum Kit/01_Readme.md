@@ -1,6 +1,6 @@
  # DRUMS in SPACE :rocket:
 
-![Screenshot](JS30/01 - JavaScript Drum Kit/img/drums.png)
+![Screenshot](https://github.com/dwilk8/JS30/blob/master/01%20-%20JavaScript%20Drum%20Kit/img/drums.png)
 
 ## Lessons Learned
 
@@ -27,3 +27,4 @@ This is were I was stuck for a bit:
 ## Some useful resources that were used in this challenge:
 
 * Difference betweeen DOM elements and attributes [w3schools.](https://www.w3schools.com/xml/xml_dtd_el_vs_attr.asp)
+* Emoji codes from [here](https://gist.github.com/rxaviers/7360908). :bowtie:
