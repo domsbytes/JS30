@@ -1,6 +1,6 @@
  # DRUMS in SPACE :rocket:
 
-![Screenshot](../img/space_drums.jpg)
+![Screenshot](../img/drums.png)
 
 ## Lessons Learned
 
