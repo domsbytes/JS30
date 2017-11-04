@@ -1,13 +1,13 @@
- #DRUMS in SPACE :rocket:
+ # DRUMS in SPACE :rocket:
 
-![Image of Space_drums](/img/space_drums.jpg)
+![Screenshot](/img/space_drums.jpg)
 
-##Lessons Learned
+## Lessons Learned
 
 Some stuff learned from this first [JS30](https://javascript30.com/) challenge JavaScript Drum Kit:
 
 * Nice to learn vanilla JS functionality:)
-* DOM **Elements** vs **Attributes**: accessed differently in code. This was my biggest bug during this challenge.
+* DOM **Elements** vs **Attributes**: accessed differently in code. 
 
 This is were I was stuck for a bit:
 
@@ -26,4 +26,4 @@ Other stuff learned:
 
 Some useful resources that were used in this challenge:
 
-* More info at [w3schools.](https://www.w3schools.com/xml/xml_dtd_el_vs_attr.asp)
+* Difference betweeen DOM elements and attributes [w3schools.](https://www.w3schools.com/xml/xml_dtd_el_vs_attr.asp)
