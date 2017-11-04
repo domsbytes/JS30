@@ -1,6 +1,6 @@
  # DRUMS in SPACE :rocket:
 
-![Screenshot](/img/space_drums.jpg)
+![Screenshot](../img/space_drums.jpg)
 
 ## Lessons Learned
 
@@ -22,7 +22,7 @@ This is were I was stuck for a bit:
 Other stuff learned:
 
 * Making awesome md files. Learn best practices and Markdown formatting at [Github's Markdown site.](https://guides.github.com/features/mastering-markdown/)
-* Adding a favicon to your website. I used a premade one from [here](https://www.favicon-generator.org/)
+* Adding a favicon to your website. I used a premade one from [here.](https://www.favicon-generator.org/)
 
 Some useful resources that were used in this challenge:
 
