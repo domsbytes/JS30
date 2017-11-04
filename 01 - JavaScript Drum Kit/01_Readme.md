@@ -1,6 +1,6 @@
  # DRUMS in SPACE :rocket:
 
-![Screenshot](../img/drums.png)
+![Screenshot](../img/drums.png?raw=true?style=centerme)
 
 ## Lessons Learned
 
