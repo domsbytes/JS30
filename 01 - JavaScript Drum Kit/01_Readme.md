@@ -1,6 +1,6 @@
  # DRUMS in SPACE :rocket:
 
-![Screenshot](https://github.com/dwilk8/JS30/blob/master/docs/01%20-%20JavaScript%20Drum%20Kit/img/drums.png)
+![Screenshot](https://github.com/dwilk8/JS30/blob/master/01%20-%20JavaScript%20Drum%20Kit/img/drums.png)
 
 ## Lessons Learned
 
