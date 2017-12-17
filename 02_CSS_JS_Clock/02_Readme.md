@@ -1,4 +1,4 @@
- # DRUMS in SPACE :rocket:
+ # CSS Clock in a FOREST :evergreen_tree:
 
 ![Screenshot](https://github.com/dwilk8/JS30/blob/master/01%20-%20JavaScript%20Drum%20Kit/img/css_clock_screen_shot.jpg)
 
